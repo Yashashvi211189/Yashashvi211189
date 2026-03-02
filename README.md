@@ -30,25 +30,6 @@
 
 ---
 
-## 📊 GITHUB ACTIVITY
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yashashvi211189&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashashvi211189&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-
-</p>
-
----
-
-## 🎬 CONTRIBUTION CINEMATICS
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Yashashvi211189/Yashashvi211189/main/contribution-cinematic.png" width="900"/>
-
-</p>
 
 ## ⚙️ TECH ARSENAL
 
