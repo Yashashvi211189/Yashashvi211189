@@ -22,20 +22,35 @@
 📞 **8178437828**
 📧 **[yashashviagnihotri007@gmail.com](mailto:yashashviagnihotri007@gmail.com)**
 
-🔗 [LinkedIn](https://linkedin.com/in/yagnihotri)
-🔗 [GitHub](https://github.com/Yashashvi211189)
-
 💡 Passionate developer focused on building **scalable web applications, responsive interfaces, and real-world solutions.**
 I enjoy combining **clean UI, efficient backend logic, and modern tools** to create impactful software.
 
 ---
+
+# 🌐 My Links
+
 <p align="center">
 
 <a href="https://yashashvi211189.github.io/Yashashvi/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yashashviagnihotri" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yashashvi211189" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:yashashviagnihotri007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
 # 🎓 Education
 
 🎓 **Jaypee University of Information Technology**
@@ -88,8 +103,7 @@ MySQL • SQL Optimization • Joins • DML / DQL
 
 ## 🔧 Front-End Intern
 
-### Powerserv Technologies Private Limited
-
+**Powerserv Technologies Private Limited**
 📅 June 2024 – July 2024
 📍 Noida, U.P.
 
@@ -105,8 +119,7 @@ MySQL • SQL Optimization • Joins • DML / DQL
 
 ## 👑 President & Technical Incharge
 
-### Omega Leo Club
-
+**Omega Leo Club**
 📅 Aug 2023 – July 2024
 📍 Solan, H.P.
 
@@ -146,6 +159,18 @@ MySQL • SQL Optimization • Joins • DML / DQL
 
 ---
 
+# 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yashashvi211189&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashashvi211189&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 # 📫 Connect With Me
 
 <p align="center">
@@ -158,8 +183,12 @@ MySQL • SQL Optimization • Joins • DML / DQL
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yagnihotri">
+<a href="https://www.linkedin.com/in/yashashviagnihotri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yashashvi211189.github.io/Yashashvi/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
