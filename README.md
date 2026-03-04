@@ -29,7 +29,13 @@
 I enjoy combining **clean UI, efficient backend logic, and modern tools** to create impactful software.
 
 ---
+<p align="center">
 
+<a href="https://yashashvi211189.github.io/Yashashvi/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
 # 🎓 Education
 
 🎓 **Jaypee University of Information Technology**
@@ -137,18 +143,6 @@ MySQL • SQL Optimization • Joins • DML / DQL
 ✔ Implemented **interactive UI components and smooth navigation** improving user engagement.
 
 ✔ Deployed on **Firebase Hosting** for secure and scalable access.
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yashashvi211189&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashashvi211189&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
