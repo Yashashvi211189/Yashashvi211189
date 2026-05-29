@@ -97,24 +97,32 @@ MySQL • SQL Optimization • Joins • DML / DQL
 🧠 Object-Oriented Programming
 
 ---
+💼 Professional Experience
+AI/ML Intern | Dirac AI
 
-# 💼 Experience
+📍 Remote | Feb 2026 – Mar 2026
 
-## 🔧 Front-End Intern
+Developed a RAG-based AI solution to improve information retrieval accuracy and reduce irrelevant responses.
+Built scalable backend services using Django REST Framework and PostgreSQL.
+Designed and implemented Role-Based Access Control (RBAC) for secure workflow management.
+Collaborated with frontend and backend teams to deliver end-to-end AI-powered features.
+Utilized AI-assisted development tools to accelerate feature delivery and improve code quality.
+Front-End Intern | Powerserv Technologies Pvt. Ltd.
 
-**Powerserv Technologies Private Limited**
-📅 June 2024 – July 2024
-📍 Noida, U.P.
+📍 Noida | Jun 2024 – Jul 2024
 
-🚀 Built and improved internal web applications using **React.js + Firebase backend** enabling real-time data sync and improving workflow efficiency by **25%**.
+Developed reusable React.js UI components for business applications.
+Integrated REST APIs to enable seamless data exchange and real-time interactions.
+Improved application performance through optimized state management.
+Worked with cross-functional teams to build scalable and user-focused features.
+Trainee Intern – Generative AI | CodeSquadz Tech Ltd.
 
-⚡ Implemented new **REST-aligned UI features**, improving page load speed by **30%** with optimized builds.
+📍 Noida | Feb 2026 – Present
 
-🧪 Performed **unit & integration testing using Jest and Postman**, achieving **100% API reliability**.
-
-👨‍💻 Conducted peer **code reviews**, reducing technical debt by **15%**.
-
----
+Working on Generative AI, Python, SQL, and AI-driven workflows.
+Building projects involving APIs, automation, and intelligent systems.
+Exploring Machine Learning concepts, prompt engineering, and AI application development.
+Developing practical solutions using modern AI tools and frameworks.
 
 ## 👑 President & Technical Incharge
 
@@ -132,37 +140,33 @@ MySQL • SQL Optimization • Joins • DML / DQL
 
 # 🚀 Projects
 
-## 🗂 Task Tracker App
+## 🏥 HCP CRM & Healthcare Discovery Platform
 
-🛠 **Python (Flask), SQLite, Docker, HTML, CSS**
-📅 Dec 2024 – Feb 2025
+🛠 **React.js, FastAPI, Python, MySQL, SQLAlchemy, OpenStreetMap, Leaflet**
+📅 Jun 2025 – Present
 
-✔ Developed a **Flask-based task management system** with CRUD operations and health-check API endpoints.
+✔ Developed a full-stack **HCP CRM platform** for healthcare provider discovery, interaction tracking, and relationship management.
 
-✔ Integrated **SQLite with SQLAlchemy** and built responsive UI templates.
+✔ Integrated **OpenStreetMap, Overpass API, Leaflet, and geolocation** to locate nearby doctors, clinics, hospitals, and pharmacies.
 
-✔ Containerized the app using **Docker + Docker Compose** with **Gunicorn production deployment**.
+✔ Built an **AI-powered workspace** to convert meeting notes into structured CRM records, summaries, sentiment analysis, and follow-up recommendations.
 
----
-
-## 🛒 E-Commerce Platform
-
-🛠 **React.js, Firebase, JavaScript, HTML, CSS**
-📅 Aug 2024 – Nov 2024
-
-✔ Built a **responsive e-commerce web application** with authentication and real-time database.
-
-✔ Implemented **interactive UI components and smooth navigation** improving user engagement.
-
-✔ Deployed on **Firebase Hosting** for secure and scalable access.
+✔ Implemented **OTP authentication, admin dashboards, provider notifications, and MySQL persistence** using SQLAlchemy ORM.
 
 ---
 
-# 📊 GitHub Activity
+## 🏢 Employee Management Platform
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yashashvi211189&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+🛠 **Next.js, TypeScript, Django REST Framework, PostgreSQL, JWT**
+📅 Apr 2025 – Present
+
+✔ Built a centralized platform for **employee management, leave tracking, project management, ticketing, document management, and CMS operations**.
+
+✔ Developed **50+ REST APIs** with JWT authentication, role-based access control, and Swagger/OpenAPI documentation.
+
+✔ Implemented workflows for employee onboarding, approvals, project assignments, and support ticket resolution.
+
+✔ Designed a scalable architecture using **PostgreSQL, Nginx, and Gunicorn** for secure enterprise operations.
 
 # 📫 Connect With Me
 
